@@ -39,17 +39,14 @@ The objective of the project was to design an autonomous Mars logistics rover ca
 
 ## My Contributions
 
-This repository highlights my individual contributions to the collaborative project.
+My primary responsibilities in this collaborative project included:
 
-My primary contributions included:
-
-- Functional decomposition of the rover system
-- Development of operational phases and system modes
-- Concept of Operations (CONOPS)
-- Verification and Validation planning
-- System behaviour modelling and documentation
-- Technical presentation of the project
-
+- Developing the rover’s operational phases and system modes
+- Creating the functional decomposition and mission functional threads
+- Deriving subsystem-level requirements from identified fault conditions
+- Supporting Concept of Operations development
+- Contributing to verification and validation planning
+- Presenting the functional decomposition, operating modes, and verification approach
 ---
 
 ## Current Status
